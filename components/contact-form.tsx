@@ -40,7 +40,7 @@ export default function ContactForm() {
           </div>
           <h3 className="text-2xl font-bold mb-4 text-white">Thank You!</h3>
           <p className="text-lg text-gray-300 mb-6">
-            We've received your information and will get back to you within 24 hours to discuss how Varia can transform
+            We&apos;ve received your information and will get back to you within 24 hours to discuss how Varia can transform
             your business communication.
           </p>
           <Button
@@ -59,7 +59,7 @@ export default function ContactForm() {
     <Card className="max-w-2xl mx-auto bg-gray-900/80 backdrop-blur-sm border-cyan-500/30">
       <CardHeader className="text-center">
         <CardTitle className="text-2xl font-bold text-white">Get Started Today</CardTitle>
-        <p className="text-gray-300">Tell us about your business and we'll show you how Varia can help</p>
+        <p className="text-gray-300">Tell us about your business and we&apos;ll show you how Varia can help</p>
       </CardHeader>
       <CardContent className="p-6">
         <form onSubmit={handleSubmit} className="space-y-6">

@@ -97,7 +97,7 @@ export default function LandingPage() {
               The Problem with Traditional Call Centers
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Businesses today struggle with outdated communication methods that can't scale effectively
+              Businesses today struggle with outdated communication methods that can&apos;t scale effectively
             </p>
           </div>
 
